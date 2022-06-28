@@ -1,4 +1,4 @@
-baseURL = "https://moments.zhangqingdong.cn/"
+baseURL = "https://copyboy.github.io/"
 languageCode = "zh-Hans"
 theme = "moments"
 paginate = 10
