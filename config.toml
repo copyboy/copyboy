@@ -1,0 +1,13 @@
+baseURL = "https://moments.zhangqingdong.cn/"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "冬青的日记"
+    signature = "人生如逆旅，我亦是行人。"
+    cover = "/img/星空.jpeg"
+
+    name = "冬青"
+    avatar = "/img/avator.jpg"
