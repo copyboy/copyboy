@@ -123,9 +123,14 @@ Convert blog articles from CSDN, CNBLOG, WeChat to Markdown/HTML format.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=copyboy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=copyboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=copyboy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
